@@ -1,7 +1,7 @@
 name: The Argo Project
 favicon: null
-layout_spectrum: 0.74616
-typography_spectrum: 0.18559
+layout_spectrum: 1
+typography_spectrum: 0.49313
 title: The Argo Project
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c00000'
     - '#bd9c84'
     - '#5a3a29'
-  brandStrength: 0.9124334664084017
+  brandStrength: 0.1875
   lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
