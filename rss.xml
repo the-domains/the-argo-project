@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Argo Project]]></title>
+        <description><![CDATA[The Argo Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 04:02:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coming Soon]]></title>
+            <description><![CDATA[<article><h1>Coming Soon</h1><p>Here's to the Future</p></article>]]></description>
+            <link>undefinedcoming-soon/index.html</link>
+            <guid isPermaLink="false">4144940d-7a97-4115-91a0-cca9d5d6f920</guid>
+            <pubDate>Tue, 23 Feb 2016 04:02:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
