@@ -4,18 +4,22 @@
         <description><![CDATA[The Argo Project]]></description>
         <link>http://www.theargoproject.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 00:38:21 GMT</lastBuildDate>
         <atom:link href="http://www.theargoproject.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is The
 Argo Project?]]></title>
-            <description><![CDATA[<article><h1>What is The
-Argo Project?</h1><p>The Argo Trust is
-basically named after this amazing place in an island down under (and don’t you
-dare think Australia) called "The Argo Trust".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7bd509e1548cf1116eb0a9868dfa0e17795a83.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10e879b7-5a08-4352-aea7-ac4efb1ca778.jpg">]]></description>
             <link>http://www.theargoproject.org/what-is-the-argo-project/index.html</link>
             <guid isPermaLink="false">0ca98bbe-df33-4533-befa-f3f58fc19c91</guid>
             <pubDate>Wed, 24 Feb 2016 00:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC's Redefining Juliet gives Shakespeare role to disabled actors]]></title>
+            <description><![CDATA[<article><h1>BBC's Redefining Juliet gives Shakespeare role to disabled actors</h1><p>A documentary going behind the scenes of a Romeo and Juliet production featuring six Juliets with disabilities or differences will be broadcast on BBC4. Redefining Juliet follows performer Storme Toolis and her company as they produce Romeo and Juliet using a diverse group of performers in the lead female role.</p><img src="https://www.thestage.co.uk/wp-content/uploads/2016/04/Storme.jpg"></article>]]></description>
+            <link>https://www.thestage.co.uk/news/2016/bbc-documentary-redefining-juliet-to-give-shakespeare-role-to-disabled-actors/</link>
+            <guid isPermaLink="false">26d45f78-56f7-4e47-9cfe-08d53036ddcd</guid>
+            <pubDate>Mon, 02 May 2016 00:38:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fancy Accessories: Wheelchair]]></title>
@@ -26,7 +30,7 @@ dare think Australia) called "The Argo Trust".</p><img src="https://s3-us-west-2
         </item>
         <item>
             <title><![CDATA[Coming Soon]]></title>
-            <description><![CDATA[<article><h1>Coming Soon</h1><p>COMING YOUR WAY!</p></article>]]></description>
+            <description><![CDATA[<p>COMING YOUR WAY!</p>]]></description>
             <link>http://www.theargoproject.org/coming-soon/index.html</link>
             <guid isPermaLink="false">4144940d-7a97-4115-91a0-cca9d5d6f920</guid>
             <pubDate>Tue, 23 Feb 2016 14:47:18 GMT</pubDate>
